@@ -23,7 +23,9 @@ Route::get('/', function () {
 
 Route::get('/search', [SearchController::class, 'search'])->name('search');
 
-Route::get('/getsearch',[SearchController::class,'getsearch']);
+Route::get('/getsearch',[SearchController::class,'getsearch'])->name('getsearch');
+
+Route::get('/openBook/{id}', [SearchController::class, 'openBook'])->name('openBook');
 
 // Route::get('/search?', [SearchController::class, 'search_results'])->name('search.results');
 
@@ -40,3 +42,13 @@ Route::get('/getsearch',[SearchController::class,'getsearch']);
 
 //     return response()->json($lesns);
 // });
+
+Route::get('/runTagAlgo', 
+    function()
+    {
+        $topics = DB::table('topics')
+                    ->leftjoin('melcs_per_title as m', 'topics.code','=','m.code')
+                    ->select('topic.id','m.competency as competency');
+
+
+    });

@@ -2,10 +2,6 @@
 
 @section('title','Search ML')
 
-
-
-
-
 @section('content')
 
 <div class="container-fluid p-5 bg-dark text-white text-center">
@@ -14,7 +10,7 @@
         <div class="col" >
             <form>
                 <div class="input-group mb-3">
-                    <input type="text" id="search-input" class="form-control" placeholder="Search..." name="search-input" />
+                    <input type="text" id="search-input" class="form-control" placeholder="Search..." name="search-input" value="{{ session()->get('searchTerm') }}"/>
                     <button class="btn btn-success" type="submit">Go</button>
                 </div>
             </form>

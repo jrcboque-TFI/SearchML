@@ -19,14 +19,11 @@
                     searchTerm: $('#search-input').val(),
                   },
                   success: function (data) {
-                    // var html = '';
-                    // $.each(data, function (index, item) {
-                    //     html += '<div>' + item.title + '</div>';
-                    // });
-                    //$('#search-results').html(data.msg);
 
                     $('#search-results').html(data.html);
-                    // $('#search-pagination').html(data.pagination);
+
+
+
                   },
                   error: function (xhr) {
                       $('#search-results').html(xhr.responseText);
@@ -37,6 +34,30 @@
           });
       });
 
+      function onLoad(){
+        $.ajax({
+            url: '/getsearch',
+            type: 'GET',
+            dataType: 'json',
+            data: {
+              searchTerm: $('#search-input').val(),
+            },
+            success: function (data) {
+
+              $('#search-results').html(data.html);
+
+
+
+            },
+            error: function (xhr) {
+                $('#search-results').html(xhr.responseText);
+                console.log(xhr.responseText);
+            }
+        });
+
+      }
+      window.onload = onLoad;
+      window.onback = onLoad;
     </script>
   </head>
 

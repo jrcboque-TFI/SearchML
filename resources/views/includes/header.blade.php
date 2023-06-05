@@ -9,7 +9,13 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-       
+        <ul class="navbar-nav me-auto">
+
+          <li class="nav-item">
+              <a class="nav-link" href="{{ route('search') }}">Search</a>
+          </li>
+
+        </ul>
       </div>
     </div>
   </div>

@@ -1,0 +1,1086 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2023-06-05T01:57:00Z</Created>
+  <LastSaved>2023-06-05T03:05:45Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>20500</WindowHeight>
+  <WindowWidth>16560</WindowWidth>
+  <WindowTopX>14820</WindowTopX>
+  <WindowTopY>500</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s101">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s104">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s109">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s110">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="161" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s101" ss:DefaultColumnWidth="65"
+   ss:DefaultRowHeight="19">
+   <Column ss:StyleID="s101" ss:Width="237"/>
+   <Column ss:StyleID="s101" ss:Width="301"/>
+   <Column ss:Index="4" ss:StyleID="s101" ss:Width="134"/>
+   <Row>
+    <Cell><Data ss:Type="String">topic</Data></Cell>
+    <Cell><Data ss:Type="String">domain</Data></Cell>
+    <Cell><Data ss:Type="String">title</Data></Cell>
+    <Cell><Data ss:Type="String">code</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">What is an Entrepreneur?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">What is an Entrepreneur?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s103"><Data ss:Type="String">How is the Entrepreneurial mindset developed?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-4</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s103"><Data ss:Type="String">How is the Entrepreneurial mindset developed?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How Relevant is Entrepreneurship to the Philippine Economy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How Relevant is Entrepreneurship to the Philippine Economy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are career opportunities for Entrepreneurs?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are career opportunities for Entrepreneurs?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Components of a Business Plan?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Components of a Business Plan?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-4</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What needs will Your Start-UP Business Fill?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0b-c-5</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What needs will Your Start-UP Business Fill?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0b-c-5</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Organize and Manage your Business?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-3</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Organize and Manage your Business?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-6</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Elements of a Marketing Strategy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-7</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Elements of a Marketing Strategy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0d-7</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Which Financial Tools are Useful in Capitalizing Your Business?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-14</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Which Financial Tools are Useful in Capitalizing Your Business?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-14</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Why is Strategic Planning Important fir Micro , Small, nd Medium Enterprises (MSMEs)?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Why is Strategic Planning Important fir Micro , Small, nd Medium Enterprises (MSMEs)?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Key Economic concepts that Validate a Business Plan</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the Key Economic concepts that Validate a Business Plan</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Asses Your Local Market Environment?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Asses Your Local Market Environment?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0d-8</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How are Risks Managed?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-13</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How are Risks Managed?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-13</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What is the Supply Chain and its Importance to Your Product-Market Strategy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What is the Supply Chain and its Importanceto Your Product- Market Strategy?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What Product or Service Shall you Offer to Your Target Market?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0a-3</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What Product or Service Shall you Offer to Your Target Market?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0a-3</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Proceed with the Business Start-Up?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-10</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Proceed with the Business Start-Up?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the government Regulatory Requirements That Business Start-Up must Comply with?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">What are the government Regulatory Requirements That Business Start-Up must Comply with?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-12</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Track and Record your Financial Operations?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-16</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Track and Record your Financial Operations?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-16</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How Do You Monitor Your Business Operations?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-i-20</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How Do You Monitor Your Business Operations?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_EP11/12ENTREP-0a-i-20</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Intruduce your Business to Market?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-13</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">How do you Intruduce your Business to Market?</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell><Data ss:Type="String">Entrepreneurship</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_EP11/12ENTREP-0h-j-13</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Akademikong Pagsulat? Ano ang pagkakaiba nito sa ibang sulatin?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Pag-unawa sa Binasa </Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_FA11/12PB-0a-c-101</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Ano ang Akademikong Pagsulat? Ano ang pagkakaiba nito sa ibang sulatin?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Pag-unawa sa Napakinggan </Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">CS_FA11/12PN-0a-c-90</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang pagkakaiba ng Akademikong sulatin sa Di-Akademiko? Pano ito makikilala</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang pagkakaiba ng Akademikong sulatin sa Di-Akademiko? Pano ito makikilala</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Napakinggan </Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_FA11/12PN-0a-c-90</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Abstrak? Anu-ano ang nilalaman nito?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Estratehiya sa Pag-aaral</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12EP&#2;0a-c-39</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Abstrak? Anu-ano ang nilalaman nito?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magsulat ng sintesis? Ano ang hakbangin sa pagsulat nito?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Pag-unawa sa Binasa </Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12PB&#2;0m-o-102 </Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magsulat ng sintesis? Ano ang hakbangin sa pagsulat nito?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magbuod? Ano ang hakbangin sa pagsulat ng buod? Ano ang pinagkaiba nito sa sintesis?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magbuod? Ano ang hakbangin sa pagsulat ng buod? Ano ang pinagkaiba nito sa sintesis?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-95</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang nakalagay isang Bionote? Saan ito madalas matatagpuan</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Napakinggan </Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">CS_FA11/12PN-0a-c-90</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang nakalagay isang Bionote? Saan ito madalas matatagpuan</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-93</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Panukalang Proyekto? Saan ito madalas ginagawa?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Estratehiya sa Pag-aaral</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12EP&#2;0a-c-39</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Panukalang Proyekto? Saan ito madalas ginagawa?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Bakit ka nagsusulat ng Talumpati?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Bakit ka nagsusulat ng Talumpati?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano nagiging maayos at malinaw ang isang pulong?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano nagiging maayos at malinaw ang isang pulong?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano naitatala ang isang pulong?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Napakinggan </Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PN&#2;0j-l-92 </Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano naitatala ang isang pulong?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano nga ba magsulat gamit ang Replektibong Sanaysay?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-95</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano nga ba magsulat gamit angReplektibong Sanaysay?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-95</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Saan ka papanig? Bakit kailangan ng Posisyong papel?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-95</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Saan ka papanig? Bakit kailangan ng Posisyong papel?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Pictorial Essay? Paano ito naiiba sa iba pang uri ng sanaysay?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Pictorial Essay? Paano ito naiiba sa iba pang uri ng sanaysay?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano ka maglalakbay habang nagsusulat?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano ka maglalakbay habang nagsusulat?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0p-r-94</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pagsulat</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PU&#2;0d-f-92</Data></Cell>
+   </Row>
+   <Row ss:Height="20">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga bahagi ng Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Napakinggan </Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PN&#2;0j-l-92 </Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga bahagi ng Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Binasa </Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PB&#2;0m-o-102 </Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga pangunahing uri ng Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Binasa </Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PB&#2;0m-o-102 </Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga pangunahing uri ng Liham?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Pag-unawa sa Binasa </Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PB&#2;0m-o-102 </Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magsalin ng isang teksto?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Paglinang ng Talasalitaan</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12PT0m-o-90</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Paano magsalin ng isang teksto?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Wika at Gramatika</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12WG&#2;0p-r-93</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga bagay na dapat tandaan sa pagsasalin?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Wika at Gramatika</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12WG&#2;0p-r-93</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Anu-ano ang mga bagay na dapat tandaan sa pagsasalin?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Wika at Gramatika</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12WG&#2;0p-r-93</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang dapat tandaan ng isang nagsasaling-wika?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Wika at Gramatika</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">CS_FA11/12WG&#2;0p-r-93</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Ano ang dapat tandaan ng isang nagsasaling-wika?</Data></Cell>
+    <Cell><Data ss:Type="String">Pagsulat sa Filipino sa Piling Larang</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Wika at Gramatika</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">CS_FA11/12WG&#2;0p-r-93</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 1: What is Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 1: What is Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 2: What is the History of Philippine Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 2: What is the History of Philippine Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="160">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 3: Who are the national artists for literature and what are their contributions to the development of Philippine literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="160">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 3: Who are the national artists for literature and what are their contributions to the development of Philippine literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 4: What makes 21st Century Literature different from the literature from the early periods?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 4: What makes 21st Century Literature different from the literature from the early periods?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 5: What are the Literary Genres of Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 5: What are the Literary Genres of Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 6: What are the New Genres of 21st Century Philippine Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 6: What are the New Genres of 21st Century Philippine</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 7: What are the other emerging genres of 21st century Philippine literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 7: What are the other emerging genres of 21st century Philippine literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 8: How can I distinguish, Literal language, Figurative Language, and symbolism</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 8: How can I distinguish, Literal language, Figurative Language, and symbolism</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 9: What are the different Literaly techniques and device</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 9: What are the different Literaly techniques and device</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 10: What is the Difference between text and context?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 10: What is the Difference between text and context?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 11: What is Asian Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 11: What is Asian Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 12: What is Anglo–American Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 12: What is Anglo–American Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 13: What is European Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 13: What is European Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 14: What is Latin American Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 14: What is Latin American Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 15: What is African Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 15: What is African Literature?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 16: How to write a critical Paper using the Linguistics Context?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 16: How to write a critical Paper using the Linguistics Context?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 17: How to use the principles of Biographical Context in studying and appreciating a text?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 17: How to use the principles of Biographical Context in studying and appreciating a text?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 18: How to use the Principles of Socio Cultural Context in Studying and appreciating a text?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 18: How to use the Principles of Socio Cultural Context in Studying and appreciating a text?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">EN12Lit-Id-25</Data></Cell>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 19: What is Reader's Response?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="40">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 19: What is Reader's Response?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 20: What are the different Critical Reading Strategies?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Lesson 20: What are the different Critical Reading Strategies?</Data></Cell>
+    <Cell><Data ss:Type="String">21st Century Literature from the Philippines and the World</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">EN12Lit-IIa-23</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 1: How do we define arts and what is it for?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 1: How do we define arts and what is it for?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 2: What are the basic elements of art and the principles of design?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 2: What are the basic elements of art and the principles of design?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 3: How is Art related to the different aspects of life in the Philippines?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0b-2</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 3: How is Art related to the different aspects of life in the Philippines?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0b-2</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 4: What is Integrative and Contemporary Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 4: What is Integrative and Contemporary Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 5: What is the Order of National Artists and why do we need people to represent us in the field of Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 5: What is the Order of National Artists and why do we need people to represent us in the field of Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 6: Who Are The Prominent Filipino Artists In The Field Of Visual Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 6: Who Are The Prominent Filipino Artists In The Field Of Visual Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 7: Who Are The Prominent Filipino Artists In The Field Of Film And Broadcast Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 7: Who Are The Prominent Filipino Artists In The Field Of Film And Broadcast Arts?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 8: Who Are The Prominent Filipino Architects, and What Are The Programs For Architecture And Design?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-15</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 8: Who Are The Prominent Filipino Architects, and What Are The Programs For Architecture And Design?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-15</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 9: Who Are The Prominent Filipino Individuals In Music, Theatre, And Dance?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 9: Who Are The Prominent Filipino Individuals In Music, Theatre, And Dance?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="180">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 10: Who Are The Prominent Filipino Artist In The Field Of Literature? What are the current Programs dedicated to Philippine Literature?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="180">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 10: Who Are The Prominent Filipino Artist In The Field Of Literature? What are the current Programs dedicated to Philippine Literature?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-5</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 11: What Are The Non-Representational Forms In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Techniques, and Performance Practices</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12TPP-0c -e-10</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 11: What Are The Non-Representational Forms In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Techniques, and Performance Practices</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12TPP-0c -e-10</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 12: What Are TheRepresentational Forms In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 12: What Are TheRepresentational Forms In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-14</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 13: What Are The General Styles Of Art, And The Techniques In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 13: What Are The General Styles Of Art, And The Techniques In Contemporary Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Integrative Art as Applied to Contemporary Art</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12IAC-0a-1</Data></Cell>
+   </Row>
+   <Row ss:Height="160">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 14: What is &quot;Medium,&quot; and&#10;what techniques are used&#10;to render the basic styles&#10;in contemporary art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-17</Data></Cell>
+   </Row>
+   <Row ss:Height="160">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 14: What is &quot;Medium,&quot; and&#10;what techniques are used&#10;to render the basic styles&#10;in contemporary art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-17</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 15: What Are The Fundamental Elements And The Meta-Frames Of The Conceptual Framework Of Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 15: What Are The Fundamental Elements And The Meta-Frames Of The Conceptual Framework Of Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 16: What Are The Common&#10;Themes In Contemporary&#10;Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-8</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 16: What Are The Common&#10;Themes In Contemporary&#10;Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-8</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 17: What Are The Stages Of&#10;The Creative Process?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-15</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 17: What Are The Stages Of&#10;The Creative Process?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Art Production</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12AP-0f -h-15</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 18: What Are Demographics&#10;And Its Components?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 18: What Are Demographics&#10;And Its Components?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">CAR11/12CAP-0c -e-6</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 19: What Are The Advantages&#10;Of Using Social Media As A&#10;Means To Exhibit Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-9</Data></Cell>
+   </Row>
+   <Row ss:Height="140">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 19: What Are The Advantages&#10;Of Using Social Media As A&#10;Means To Exhibit Art?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-9</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 20: What are the Different&#10;Social Media Platforms to&#10;Promote Exhibits?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-9</Data></Cell>
+   </Row>
+   <Row ss:Height="100">
+    <Cell ss:StyleID="s112"><Data ss:Type="String">Lesson 20: What are the Different&#10;Social Media Platforms to&#10;Promote Exhibits?</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Contemporay Phil Arts from the Regions</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Contemporary Arts in the Philippines</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">CAR11/12CAP-0c -e-9</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>87</Zoom>
+   <Selected/>
+   <TopRowVisible>145</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>149</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R42C2:R121C2,R1C1:R41C4,R162C1:R1048576C4,R122C1:R161C1</Range>
+   <Condition>
+    <Value1>LEN(TRIM(RC))=0</Value1>
+    <Format Style='color:#9C5700;background:#FFEB9C'/>
+   </Condition>
+  </ConditionalFormatting>
+ </Worksheet>
+</Workbook>
